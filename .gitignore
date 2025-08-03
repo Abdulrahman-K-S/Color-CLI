@@ -1,0 +1,8 @@
+# Package information
+/colorME.egg-info
+
+# Virtual environment directory
+/venv
+
+# Python cache directory(ies)
+/__pycache__
