@@ -1,7 +1,8 @@
 from setuptools import setup, find_packages
 
+long_description = []
 with open('README.md', 'r', encoding='utf-8') as f:
-    long_description = f.readlines()
+    long_description = f.read()
 
 setup(
     name='colorME',
