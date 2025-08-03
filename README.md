@@ -25,16 +25,16 @@ This package will house a utility package that will help the users to be able to
 
 ## Installation
 
+Use the package in your project:
+```bash
+pip install color_cli
+```
+
 Install locally for development:
 ```bash
 git clone https://github.com/Abdulrahman-K-S/color-CLI.git
 cd colorME
 pip install -e .
-```
-
-Or use it in your project:
-```bash
-pip install git+https://github.com/Abdulrahman-K-S/color-CLI.git
 ```
 
 ## Usage
