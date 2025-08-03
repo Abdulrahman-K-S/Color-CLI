@@ -1,6 +1,6 @@
-# Contributing to colorME
+# Contributing to color CLI
 
-Thank you for considering contributing to **colorME** - A simple utility to add style and color to your terminal outputs
+Thank you for considering contributing to **Color CLI** - A simple utility to add style and color to your terminal outputs
 
 Whether you're fixing bugs, improving docs or just sharing ideas. You're very welcome here <3
 
@@ -32,4 +32,4 @@ Open an [issue](https://github.com/Abdulrahman-K-S/colorME/issues) and I’ll re
 
 ---
 
-Thanks for helping improve **colorME**!! <3
+Thanks for helping improve **Color CLI**!! <3

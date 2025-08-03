@@ -1,4 +1,4 @@
-# <p align='center'>ColorME</p>
+# <p align='center'>Color CLI</p>
 A lightweight Python package to add color and character to your command-line output.
 
 <details>
@@ -27,20 +27,20 @@ This package will house a utility package that will help the users to be able to
 
 Install locally for development:
 ```bash
-git clone https://github.com/Abdulrahman-K-S/colorME.git
+git clone https://github.com/Abdulrahman-K-S/color-CLI.git
 cd colorME
 pip install -e .
 ```
 
 Or use it in your project:
 ```bash
-pip install git+https://github.com/Abdulrahman-K-S/colorME.git
+pip install git+https://github.com/Abdulrahman-K-S/color-CLI.git
 ```
 
 ## Usage
 
 ```py
-from colorme import color_text
+from color_cli import color_text
 
 # Basic output
 print(color_text('Hello World!', color='green'))
@@ -63,7 +63,7 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 
 ## Future Work
 - Add a support for background colors
-- Add CLI features such as `colorme 'hello' --color blue --attrs bold`
+- Add CLI features such as `color-cli 'hello' --color blue --attrs bold`
 - Add more customization
 
 ## Contributors

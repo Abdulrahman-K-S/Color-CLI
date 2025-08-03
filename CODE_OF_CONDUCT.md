@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We as contributors and maintainers of **colorME** pledge to make participation in our project a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, level of experience, nationality, personal appearance, race or religion.
+We as contributors and maintainers of **Color CLI** pledge to make participation in our project a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, level of experience, nationality, personal appearance, race or religion.
 
 
 ## Our Standards

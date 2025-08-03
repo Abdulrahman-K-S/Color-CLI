@@ -6,3 +6,5 @@
 
 # Python cache directory(ies)
 /__pycache__
+/color_cli.egg-info
+/dist

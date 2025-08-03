@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='colorME',
+    name='color_cli',
     version='0.1.0',
     description='A simple coloring util for better output visibility',
     long_description=long_description,
@@ -15,8 +15,7 @@ setup(
     packages=find_packages(),
     install_requires=['termcolor'],
     classifiers=[
-        'Programming Language :: Python :: 3',
-        'Operating System :: OS Dependent'
+        'Programming Language :: Python :: 3'
     ],
     python_requires='>3.10'
 )
